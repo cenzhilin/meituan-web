@@ -1,0 +1,4 @@
+<import src="/components/header.vue.wxml" />
+<import src="/components/nav.vue.wxml" />
+<import src="/components/left-nav.vue.wxml" />
+
